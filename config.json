@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/coding hub",
+    "prod_uri": "mysql://root:@localhost/coding hub",
+    "blog_name": "Reliance blog",
+    "tag_line": "Blog liked by jio user",
+    "gmail-user":"srivastavashasha1902@gmail.com",
+    "gmail-password":"Noida@123",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user":"python",
+    "admin_password": "coding",
+    "upload_location":"C:\\Users\\OM\\PycharmProjects\\flask-tuto\\static"
+
+
+  }
+
+
+
+}
+
